@@ -4,7 +4,7 @@ Hi 👋 My name is David
 Cybersecurity professional, malware analysis, Project manager
 -------------------------------------------------------------
 
-Hey nice to see you! Im a cybersecurity student with an strong interestest in malware analysis. I have a strong background in sales, marketing and managment.
+Hey, nice to see you! I'm a cybersecurity student with a strong interestest in malware analysis, and I have a strong background in sales, marketing, and management.
 
 *   🌍  I'm based in Jakarta
 *   🚀  I'm currently working on [ParaOs]([http://https://github.com/Dendeef/ParaOs])
