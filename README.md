@@ -1,10 +1,10 @@
 Hi 👋 My name is David
 ======================
 
-Cybersecurity professional, malware analysis, Project manager
+Devops Engineer | Kubernetes | AWS | Docker | Linux | CI/CD | Terraform
 -------------------------------------------------------------
 
-Hey nice to see you! Im a cybersecurity student with an strong interestest in malware analysis. I have a strong background in sales, marketing and managment.
+Het there! Thank you for taking the time to look at my profile.
 
 *   🌍  I'm based in Jakarta
 *   🚀  I'm currently working on [ParaOs](http://https://github.com/Dendeef/ParaOs)
